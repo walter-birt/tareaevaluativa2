@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<link href="./css/estilo.css" rel="stylesheet" type="text/css"/>
+		<meta charset="utf-8"/>
+		<meta name="description" content="Página principal"/>
+		<title>Index</title>
+	</head>
+	<body>
+		<header>
+			<logo>
+				<imagen src="./img/logotipo.png" alt="Reservas"/>
+			</logo>
+			<enlace href="web/tienda.xml">Tienda</enlace>
+			<enlace href="web/equipos.xml">Equipos</enlace>
+			<enlace href="web/partidos.xml">Partidos</enlace>
+		</header>
+		<main class="principal">
+			<titulo>TRABAJANDO CON PLANTILLAS XSLT</titulo>
+		</main>
+		<footer>
+			<direccion>&#169; Desarrollado por info@birt.eus</direccion>
+		</footer>
+	</body>
+</html>
